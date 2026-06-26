@@ -47,13 +47,14 @@
 * AutoGen
 * RAG
 * LoRA / QLoRA
-* Vision-Language Models (Qwen2.5-VL)
+* Vision-Language Models
 
 ### Voice AI
 
 * Retell AI
 * ElevenLabs
 * Whisper
+* Groq
 * XTTS / Coqui TTS
 
 ### Automation
