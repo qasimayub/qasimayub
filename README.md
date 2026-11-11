@@ -12,9 +12,9 @@
   </p>
 </div>
 
-I am a final-year Computer Science undergraduate at the Lahore University of Management Sciences (LUMS), with a **3.98 CGPA** and a merit scholarship for the **top 2%** of my class. My research focuses on the **reliability of machine learning systems**: whether a vision-language model's answer is grounded in visual evidence rather than merely confident, what drives model predictions of protein modifications, and how models can recognize unfamiliar inputs when data is distributed across clients.
-
 I am seeking **graduate research positions** in reliable multimodal learning and in machine learning for biology and health.
+
+I am a final-year Computer Science undergraduate at the Lahore University of Management Sciences (LUMS), with a **3.98 CGPA** and a merit scholarship for the **top 2%** of my class. My research focuses on the **reliability of machine learning systems**: whether a vision-language model's answer is grounded in visual evidence rather than merely confident, what drives model predictions of protein modifications, and how models can recognize unfamiliar inputs when data is distributed across clients.
 
 ## News
 
@@ -25,9 +25,9 @@ I am seeking **graduate research positions** in reliable multimodal learning and
 
 **VisConf: Quality-Aware Consensus for Best-of-N in Vision-Language Model Reasoning**<br>
 M. Usman, **M. Q. Ayub**, U. Ahad, M. Tahir<br>
-*NeurIPS 2026 Workshop (VLM4RWD)* · [OpenReview](https://openreview.net/forum?id=FdvdQ3Rw8P) · [NeurIPS](https://neurips.cc/virtual/2026/165019)
+*NeurIPS 2026 Workshop (VLM4RWD)* · [arXiv](https://arxiv.org/abs/2610.24526) · [OpenReview](https://openreview.net/forum?id=FdvdQ3Rw8P) · [NeurIPS](https://neurips.cc/virtual/2026/165019)
 
-A training-free method that weights sampled answers by visual groundedness and calibrated confidence, making test-time scaling in vision-language models more reliable.
+A training-free method that weights sampled answers by visual groundedness and calibrated confidence. Across three VLMs on MathVista, MMMU-Pro and MMStar, it outperformed all evaluated baselines in 24 of 27 settings.
 
 ## Ongoing research
 
